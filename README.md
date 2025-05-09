@@ -36,3 +36,8 @@ Retrieve and play the most relevant audio
 📚 References
 
 CLAP: Contrastive Language-Audio Pretraining – [https://arxiv.org/abs/2211.06687](https://arxiv.org/pdf/2206.04769)
+
+Video Presentation
+
+Drive Link- https://drive.google.com/file/d/1xlz5UeVcNNuyBWxu2V2WbHRvvMQOOEbA/view?usp=drive_link
+
